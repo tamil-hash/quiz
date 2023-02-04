@@ -58,5 +58,8 @@
   },
   "husky": {
     "pre-commit": "lint-staged"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.8.0"
   }
 }
