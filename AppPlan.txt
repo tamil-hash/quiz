@@ -1,0 +1,11 @@
+pages required:
+
+create quiz
+show quizes
+view quiz
+take quiz
+
+
+initial plan:
+
+first create the above pages
